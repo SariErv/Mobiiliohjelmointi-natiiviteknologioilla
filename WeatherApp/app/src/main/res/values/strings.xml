@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weatherapp">WeatherApp</string>
+    <string name="infoscreen">InfoScreen</string>
+    <string name="ladataan_s_tietoja">Ladataan säätietoja..</string>
+    <string name="hae_s">Hae sää</string>
+    <string name="sijainti">Sijainti</string>
+    <string name="mainscreen">MainScreen</string>
+    <string name="tekij_sari_ervasti_tvt24kmo">Tekijä: Sari Ervasti, TVT24KMO</string>
+    <string name="data_source_open_meteo">Data source: Open-Meteo</string>
+    <string name="sovelluksen_tarkoituksen_on_n_ytt_s_tietoja_halutusta_sijainnista">Sovelluksen tarkoituksen on näyttää säätietoja halutusta sijainnista</string>
+    <string name="t_m_android_mobiilisovellus_on_tehty_viimeiseksi_palautettavaksi_ty_ksi_kurssille_mobiiliohjelmointi_natiiviteknologioilla">Tämä Android-mobiilisovellus on tehty viimeiseksi palautettavaksi työksi kurssille Mobiiliohjelmointi natiiviteknologioilla.</string>
+    <string name="tietoa_sovelluksesta">Tietoa sovelluksesta</string>
+</resources>
